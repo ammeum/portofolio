@@ -10,7 +10,7 @@ function Home () {
                  <h1>Anna Marita Meum</h1>
                <h2>Arbeidserfaring</h2>
                <ul>
-                    <li>Noe</li>
+                    <li>Rema YEYE</li>
                     <li>Noe annet</li>
                     <li>Noe mer</li>
                 </ul> 
