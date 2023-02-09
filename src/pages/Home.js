@@ -8,7 +8,6 @@ function Home () {
             </div>
             <div id="Homebox">
                 <h1>Anna Marita Meum</h1>
-                <h2>Dette er meg</h2>
                 <p class="profile">Trivelig og nysgjerrig nyutdannet med stor arbeidskapasitet. Trives godt med å få være kreativ og jobbe med visuelle ting. God kunnskap og stor interesse for Adobe creative cloud programmer. Grunnleggende god forståelse innenfor html, css, javascript og React. Under studiet interesserte jeg meg spesielt for grafisk design, 3D modellering, videoproduksjon og kommunikasjonsdesign.</p>
                 <h2>Arbeidserfaring</h2>
                 <ul>
