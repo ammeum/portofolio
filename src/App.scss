@@ -1,26 +1,23 @@
 body {
-  background: black;
-  color: white;
+  background: #ffeeee;
+  color: #6d6d6d;
   
   .imagebox {
-  width: 300px;
-  border-radius: 3px;
-  border: 3px solid white;
-  margin: 2rem;
+    width: 350px;
+    margin: 0rem 4rem 0rem 4rem;
 }
 }
 
 .navigation {
   display: flex;
-  width: 80%;
-  margin: 20px auto;
-  gap: 8rem;
-  padding: 1rem;
+  max-width: 100%;
+  margin: 0px auto 23px auto;
+  gap: 14rem;
+  padding: 1.5rem;
   font-size: 30px;
-  background-color: rgb(37, 1, 37);
-  color: rgb(224, 199, 214);
+  background-color: #6d6d6d;
+  color: #ffeeee;
   justify-content: center;
-  border-radius: 10px;
   a {
     color: white;
     text-decoration: none;
@@ -30,8 +27,25 @@ body {
 .sectionbox {
   display: flex;
   justify-content: center;
+  align-items: center;
+  padding-bottom: 3rem;
+
+  .profile {
+    max-width: 40rem;
+  }
+
+    li {
+      margin: 0rem 0rem 0.5rem 1rem;
+    }
+
+    .underli {
+      padding: 0;
+      margin: 0rem 0rem 0.5rem 2rem;
+      font-size: 14px;
+    }
 }
 
 h1{
         font-size: 70px;
+        margin: 0;
       }

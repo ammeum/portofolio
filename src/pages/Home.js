@@ -1,4 +1,4 @@
-import bildeBilde from '../Images/1.jpg';
+import bildeBilde from '../Images/selfie.png';
 
 function Home () {
     return (
@@ -7,18 +7,21 @@ function Home () {
             <img className="imagebox" src={bildeBilde} alt="Bilde av verdens søteste hund"/>
             </div>
             <div id="Homebox">
-                 <h1>Anna Marita Meum</h1>
-               <h2>Arbeidserfaring</h2>
-               <ul>
-                    <li>Rema YEYE</li>
-                    <li>Noe annet</li>
-                    <li>Noe mer</li>
+                <h1>Anna Marita Meum</h1>
+                <h2>Dette er meg</h2>
+                <p class="profile">Trivelig og nysgjerrig nyutdannet med stor arbeidskapasitet. Trives godt med å få være kreativ og jobbe med visuelle ting. God kunnskap og stor interesse for Adobe creative cloud programmer. Grunnleggende god forståelse innenfor html, css, javascript og React. Under studiet interesserte jeg meg spesielt for grafisk design, 3D modellering, videoproduksjon og kommunikasjonsdesign.</p>
+                <h2>Arbeidserfaring</h2>
+                <ul>
+                    <li>Studentassistent v/ Høgskolen i Østfold</li>
+                    <p class="underli">Grafisk design og webutvikling</p>
+                    <li>Dagligvarehandel</li>
+                    <li>Pleiemedarbeider</li>
                 </ul> 
                 <h2>Utdanning</h2>
                 <ul>
-                    <li>Skole</li>
-                    <li>Annen skole</li>
-                    <li>Mer skole</li>
+                    <li>Bachelor i digitale medier og design</li>
+                    <li>Generell studiekompetanse</li>
+                    <li>1 år design og håndverk</li>
                 </ul>
             </div>
         </section>
